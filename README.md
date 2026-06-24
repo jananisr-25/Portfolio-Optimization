@@ -204,7 +204,8 @@ Equal-weight portfolio ≈ 0.067
 
 ### Efficient Frontier & Capital Market Line
 
-![Efficient Frontier](outputs/cvpxy_exact frontier.png)
+<img width="1089" height="690" alt="cvpxy_exact frontier" src="https://github.com/user-attachments/assets/d3d35393-5707-4fda-a440-fb9697fb6ebf" />
+
 
 The exact CVXPY frontier dominates the Monte Carlo approximation and identifies the true tangency portfolio.
 
@@ -212,7 +213,8 @@ The exact CVXPY frontier dominates the Monte Carlo approximation and identifies 
 
 ### Portfolio Allocation Comparison
 
-![Allocation Comparison](outputs/weights_comparison.png)
+<img width="1589" height="490" alt="image" src="https://github.com/user-attachments/assets/2998be37-2410-4c29-aae3-da57e7c40c22" />
+
 
 Comparison of portfolio weights under different optimization constraints.
 
